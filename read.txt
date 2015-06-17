@@ -1,2 +1,3 @@
 local
 b1 from local
+b1 from remote edit1.
