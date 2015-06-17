@@ -2,3 +2,4 @@ local
 b1 from local
 b1 from remote edit1.
 b1 pull request to merge with master. done.  next, rebase locally.
+on master, added somethign more.  attempt another rebase.  in the mean time, i push something to b1 already.
